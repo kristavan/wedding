@@ -2,6 +2,7 @@
 layout: post
 title: "TransLite"
 featured-img: dcproject
+tags: [programming]
 ---
 
 # CEG 7370: Distributed Computing Project

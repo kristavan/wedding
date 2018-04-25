@@ -2,6 +2,7 @@
 layout: post
 title: "DIY Menu Board"
 featured-img: diy_menu
+tags: [art, diy]
 ---
 
 *A project from September 2017...*
