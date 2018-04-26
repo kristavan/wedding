@@ -26,6 +26,13 @@ layout: compress
     </div>
 
     <main class="site__content">
+      <p class="hero__meta">
+        <center>
+          {% for t in site.tags %}
+            <a href="/tag/{{t | first}}/"> | #{{ t | first }} |</a>
+          {% endfor %}
+        </center>
+    </p>
       <section class="blog">
         <div class="container">
           <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
