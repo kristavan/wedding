@@ -2,7 +2,6 @@
 layout: post
 title: "HIMYM Canvas Painting"
 featured-img: yellow_umbrella
-tags: [art]
 ---
 
 *A project from December 2017...*

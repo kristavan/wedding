@@ -16,11 +16,6 @@ social:
 disqus:
   shortname: kristavan # to enable comments replace with your_disqus_shortname
 
-tags:
-  - art
-  - diy
-  - programming
-
 # Build settings
 markdown: kramdown
 highlighter: rouge # or pygments or null
