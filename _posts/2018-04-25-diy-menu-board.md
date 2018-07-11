@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "DIY Menu Board"
-featured-img: diy_menu
+tags: diy
 ---
 
 *A project from September 2017...*
@@ -20,7 +20,7 @@ I figured if I wanted to make this as a gift for Derek, it needed to meet his ex
 I happened to have an old wooden frame laying around that my sister had actually bought a while back
 and wasn't using:
 
-<img src="../assets/img/posts/diy_menu_frame.jpg" style="width: 300px;">
+<img src="../images/posts/diy_menu_frame.jpg" style="width: 300px;">
 
 I decided that because I want this to be hang-able, the backing for this should be pretty lightweight.
 I went with some black foamcore, so I could do some stenciling on it as well. I wanted to be able to have
@@ -43,7 +43,7 @@ I handmade the menu cards with just some labels printed from a template I create
 and then some colored cardstock paper to give it some nice weightiness. I color-coded the different
 types of food, red for protein, green for veggies, orange for starches, etc. *(peep the Corsair K65 keyboard- no numpad FTW!)*:
 
-<img src="../assets/img/posts/diy_menu_meals.jpg" style="width: 600px;">
+<img src="../images/posts/diy_menu_meals.jpg" style="width: 600px;">
 
 The other work I put into this, other than some lovely hot-gluing, was painting the locker pencil holder.
 I had this old one that was silver and didn't quite match the look of what I was going for. I removed the magnet
@@ -51,4 +51,4 @@ on the back, and spray painted it black.
 
 So when you put it all together, this is what you get:
 
-<img src="../assets/img/posts/diy_menu.jpg" style="width: 600px;">
+<img src="../images/posts/diy_menu.jpg" style="width: 600px;">

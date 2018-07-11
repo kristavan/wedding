@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "HIMYM Canvas Painting"
-featured-img: yellow_umbrella
+tags: art
 ---
 
 *A project from December 2017...*
@@ -14,8 +14,8 @@ one of the most referenced objects in the show- the yellow umbrella!
 
 <br />
 
-<img src="../assets/img/posts/himym_draw.jpg" style="width: 550px;"> | <img src="../assets/img/posts/himym_wip.jpg" style="width: 550px;">
+<img src="../images/posts/himym_draw.jpg" style="width: 550px;"> | <img src="../images/posts/himym_wip.jpg" style="width: 550px;">
 
 ---
 
-<img src="../assets/img/posts/himym_canvas.jpg" style="width: 600px;">
+<img src="../images/posts/himym_canvas.jpg" style="width: 600px;">
