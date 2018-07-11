@@ -12,14 +12,14 @@ The best part about turning acrylic is using the micromesh sanding pads to get i
 
 <center>
 <figure>
-  <img src="../images/posts/fathers_day_pen1.jpg" style="width: 600px;">
+  <img src="../images/posts/fathers_day_pen1.JPG" style="width: 600px;">
   <figcaption>Dad's pen (right, red) and a pen Derek made for his dad (left)</figcaption>
 </figure>
 
 <p></p>
 
 <figure>
-  <img src="../images/posts/fathers_day_pen2.jpg" style="width: 600px;">
+  <img src="../images/posts/fathers_day_pen2.JPG" style="width: 600px;">
   <figcaption>Tucked away in the velvet case I also found at Woodcraft</figcaption>
 </figure>
 </center>

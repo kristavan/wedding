@@ -11,7 +11,7 @@ If only there was a way to queue up the students so the TA would know who needed
 I didn't get around to actually implementing anything until I decided to participate in Wright State's spring hackathon. As vice president of the ACM club, I was usually helping out with the logistics of planning the event and deterring any 2am shenanigans when all the programmers had had too many caffeinated beverages. BUT I decided to take a backseat in the 2017 hackathon planning and get my hands dirty with some Django. I grabbed a couple of friends and we worked all through the night with about 30 minutes of sleep.
 
 <center>
-  <img src="../images/posts/helpqueue_main.png" style="width: 600px;">
+  <img src="../images/posts/helpqueue_main.PNG" style="width: 600px;">
 </center>
 
 ### HelpQueue (HQ)

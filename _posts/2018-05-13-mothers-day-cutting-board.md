@@ -10,14 +10,14 @@ two thin strips of purpleheart.
 
 <center>
 <figure>
-  <img src="../images/posts/mothers_day_cuttingboard1.jpg" style="width: 600px;">
+  <img src="../images/posts/mothers_day_cuttingboard1.JPG" style="width: 600px;">
   <figcaption>The final product!</figcaption>
 </figure>
 
 <p></p>
 
 <figure>
-  <img src="../images/posts/mothers_day_cuttingboard2.jpg" style="width: 600px;">
+  <img src="../images/posts/mothers_day_cuttingboard2.JPG" style="width: 600px;">
   <figcaption>Close-up of walnut/purpleheart striping</figcaption>
 </figure>
 </center>
