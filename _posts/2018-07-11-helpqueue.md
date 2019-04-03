@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "HelpQueue"
-tags: programming python css
+tags: programming python css html
 ---
 
 The idea for the project started back in my sophomore year of college. I was sitting in my computer organization lab and there were about 25-30 students in the lab trying to get signed off on their lab progress so they could move on to the next grueling task. The problem, though, is that there was only one TA for all of us students, and he would take his time getting around to every person, wouldn't know who had their hand up first, who to prioritize, etc.

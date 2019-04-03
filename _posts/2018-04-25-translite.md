@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "TransLite"
-tags: programming java
+tags: programming java android
 ---
 
 So for my distributed computing class at Wright State, we had a semester-long project to work on.
