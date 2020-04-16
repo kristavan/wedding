@@ -25,6 +25,14 @@ font-family: "NothingYouCouldDo";
 src: url("fonts/NothingYouCouldDo-Regular.ttf");
 }
 
+.rotateimg180 {
+  -webkit-transform:rotate(180deg);
+  -moz-transform: rotate(180deg);
+  -ms-transform: rotate(180deg);
+  -o-transform: rotate(180deg);
+  transform: rotate(180deg);
+}
+
 body {
     width: 100%;
     height: 100%;
@@ -51,6 +59,8 @@ h6 {
     font-size: 52px;
     letter-spacing: 1px;
 }
+
+h5 { font-size: 48px; }
 
 /* Added in { Personal } */
 h4 {
@@ -261,7 +271,7 @@ a {
         max-width: 100%;
         height: auto;
         margin: 0 auto;
-        border: 1px solid $font-color;
+        //border: 1px solid $font-color;
     }
     /* Added in { Personal } */
     ul,
