@@ -195,10 +195,10 @@ err-404-img: "/img/labtocat.png"
 # Sections shown in the index page
 
 pages_list:
+  Details: 'details'
   Our Story: 'about'
-  Wedding Details: 'details'
-  RSVP: 'rsvp'
-  Contact: 'contact'
+  Entourage: 'party'
+  RSVP/Contact: 'rsvp'
 
 # Exclusion list from the generated _site
 
