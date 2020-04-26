@@ -72,10 +72,11 @@ h6 {
     letter-spacing: 1px;
 }
 
-h5 { font-size: 48px; }
+h5 { font-size: 36px; }
 
 /* Added in { Personal } */
 h4 {
+    font-size: 24px;
     a.category {
         color: inherit;
     }
@@ -118,7 +119,7 @@ a {
 
 .navbar-custom {
     margin-bottom: 0;
-    /*border-bottom: 1px solid rgba($font-color, 0.3);*/
+    border-bottom: 1px solid rgba($font-color, 0.3);
     text-transform: uppercase;
     font-family: "Quicksand",sans-serif;
     background-color: $navbar-sm-background-color;
@@ -215,8 +216,8 @@ a {
             font-size: 40px;
         }
         .intro-text {
-            font-size: 64px;
-            font-family: "NothingYouCouldDo",serif;
+            font-size: 36px;
+            font-family: "Rochester",serif;
             @if $navbar-text-shadow {
                 text-shadow: 3px 0 3px #000;
             }
