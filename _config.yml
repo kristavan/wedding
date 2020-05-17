@@ -192,6 +192,7 @@ pages_list:
   Our Story: 'about'
   Entourage: 'party'
   RSVP: 'rsvp'
+  Registry: 'registry'
 
 # Exclusion list from the generated _site
 
