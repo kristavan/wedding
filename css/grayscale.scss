@@ -25,6 +25,11 @@ font-family: "NothingYouCouldDo";
 src: url("fonts/NothingYouCouldDo-Regular.ttf");
 }
 
+@font-face {
+font-family: "Jenriv";
+src: url("fonts/JenrivTitling-Regular.otf");
+}
+
 .rotateimg180 {
   -webkit-transform:rotate(180deg);
   -moz-transform: rotate(180deg);
@@ -50,7 +55,7 @@ body {
     height: 100%;
     font-family: "Quicksand",sans-serif;
     color: $font-color;
-    background-color: $primary-color;
+    background-color: #c4a491;
 }
 
 html {
@@ -65,7 +70,6 @@ h4,
 h5,
 h6 {
     margin: 0 0 35px;
-    //text-transform: uppercase;
     font-family: "Rochester",serif;
     font-weight: normal;
     font-size: 64px;
@@ -73,8 +77,8 @@ h6 {
 }
 
 h5 {
-    font-size: 48px;
-    font-family: "NothingYouCouldDo",sans-serif;
+    font-size: 36px;
+    font-family: "Jenriv",sans-serif;
 }
 
 /* Added in { Personal } */
@@ -123,8 +127,8 @@ a {
 .navbar-custom {
     margin-bottom: 0;
     border-bottom: 1px solid rgba($font-color, 0.3);
-    text-transform: uppercase;
-    font-family: "Quicksand",sans-serif;
+    //text-transform: uppercase;
+    font-family: "Jenriv",sans-serif;
     background-color: $navbar-sm-background-color;
 
     /* Fix height limit and scroll for small screen and many items menu */
@@ -149,7 +153,7 @@ a {
     a {
         color: $navbar-color;
         @if $header-text-shadow{
-            text-shadow: 0 0 2px rgba(0, 0, 0, 0.8);
+            text-shadow: 0 0 10px rgba(0, 0, 0, 0.8);
         }
     }
     .nav {
@@ -275,12 +279,12 @@ a {
 }
 
 .content-section {
-    margin-top: 100px;
-    padding-top: 100px;
-    @media(min-width:767px) {
-        margin-top: 125px;
-        padding-top: 125px;
-    }
+    background: $primary-color;
+    padding-top: 50px;
+    margin-top: 50px;
+    padding-bottom: 50px;
+    box-shadow: 0 8px 25px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+
     /* Added in { Personal } for responsive images in posts and section contents */
     img {
         display: block;
