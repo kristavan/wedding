@@ -12,7 +12,7 @@
 
 @font-face {
 font-family: "Rochester";
-src: url("fonts/Rochester-Regular.ttf");
+src: url("fonts/Allura-Regular.otf");
 }
 
 @font-face {
@@ -216,7 +216,7 @@ a {
             font-size: 40px;
         }
         .intro-text {
-            font-size: 36px;
+            font-size: 78px;
             font-family: "Rochester",serif;
             @if $navbar-text-shadow {
                 text-shadow: 3px 0 3px #000;
@@ -231,7 +231,7 @@ a {
                 font-size: 18px;
             }
             .intro-text {
-                font-size: 64px;
+                font-size: 78px;
             }
         }
     }
