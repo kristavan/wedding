@@ -191,7 +191,7 @@ pages_list:
   Details: 'details'
   Our Story: 'about'
   Entourage: 'party'
-  RSVP: 'rsvp'
+  RSVP: 'rsvpform'
   Registry: 'registry'
 
 # Exclusion list from the generated _site
@@ -207,6 +207,10 @@ paginate_path: "blog/page:num/"
 sass:
   style: compressed
 
-gems:
+plugins:
   - jekyll-paginate
   - jemoji
+  - jekyll-redirect-from
+
+whitelist:
+  - jekyll-redirect-from
